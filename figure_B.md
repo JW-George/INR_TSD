@@ -1,6 +1,6 @@
 # Robust and Tuning-Free Time Series Decomposition via Implicit Neural Representations
 
----
+
 
 ## Supplementary figure
 
@@ -8,3 +8,11 @@
 
 <img src="https://anonymous.4open.science/r/INR_TSD-FC7B/figure/figure_B.png" width="800px">
 
+|            |     Trend      |    Seasonal    |
+| :--------: | :------------: | :------------: |
+|            |  (MSE / MAE)   |  (MSE / MAE)   |
+|    ours    |  3.46 / 1.47   |  15.36 / 2.84  |
+|   PyBoat   |  5.66 / 1.97   |    N/A $^1$    |
+| Robust STL | 203.25 / 11.07 | 197.68 / 11.33 |
+
+$^1$ PyBOAT does not provide an explicit seasonal decomposition; hence, the seasonal metrics are not applicable.

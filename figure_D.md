@@ -1,6 +1,6 @@
 # Robust and Tuning-Free Time Series Decomposition via Implicit Neural Representations
 
----
+
 
 ## Supplementary figure
 
