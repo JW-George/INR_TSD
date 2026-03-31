@@ -22,7 +22,7 @@ All experiments were conducted on a Linux server equipped with an NVIDIA A100-PC
 
 **Table B.** https://anonymous.4open.science/r/INR_TSD-FC7B/table_B.md
 
-**Table C. **https://anonymous.4open.science/r/INR_TSD-FC7B/table_C.md
+**Table C. ** https://anonymous.4open.science/r/INR_TSD-FC7B/table_C.md
 
 **Table D.** https://anonymous.4open.science/r/INR_TSD-FC7B/table_D.md
 
