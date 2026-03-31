@@ -16,14 +16,14 @@ All experiments were conducted on a Linux server equipped with an NVIDIA A100-PC
 
 **Figure B.**  [Figure_B.md](https://anonymous.4open.science/r/INR_TSD-FC7B/figure_B.md)
 
-**Figure C.** [Figure_C.md](https://anonymous.4open.science/r/INR_TSD-FC7B/figure_C.md)
+**Figure C.**  [Figure_C.md](https://anonymous.4open.science/r/INR_TSD-FC7B/figure_C.md)
 
-**Figure D.** [Figure_D.md](https://anonymous.4open.science/r/INR_TSD-FC7B/figure_D.md)
+**Figure D.**  [Figure_D.md](https://anonymous.4open.science/r/INR_TSD-FC7B/figure_D.md)
 
-**Table A.** [Table_A.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_A.md)
+**Table A.**  [Table_A.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_A.md)
 
-**Table B.** [Table_B.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_B.md)
+**Table B.**  [Table_B.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_B.md)
 
-**Table C. ** [Table_C.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_C.md)
+**Table C.**  [Table_C.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_C.md)
 
-**Table D.** [Table_D.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_D.md)
+**Table D.**  [Table_D.md](https://anonymous.4open.science/r/INR_TSD-FC7B/table_D.md)
