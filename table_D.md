@@ -4,7 +4,7 @@
 
 ## Supplementary table
 
-**Table D.** Impact of $\omega_0$ on decomposition performance. The impact SIREN’s $\omega_0$ is investigated by evaluating the performance of INR-TSD under different weight initialization intervals [0, $\omega_0$]. The results of this ablation study show that our default setting outperforms configurations where $\omega_0$ deviates from 1. This indicates that our normalization scheme effectively constrains the frequency values within the range [0, 1].
+**Table D.** Impact of $\omega_0$ on decomposition performance. The impact SIREN’s $\omega_0$ is investigated by evaluating the performance of INR-TSD under different weight initialization intervals [0,  $\omega_0$]. The results of this ablation study show that our default setting outperforms configurations where $\omega_0$ deviates from 1. This indicates that our normalization scheme effectively constrains the frequency values within the range [0, 1].
 
 |  $\omega_0$   |    0.5     |      1 (Default)      |         2         |         4         |        10         |        20         |        30         |
 | :-----------: | :--------: | :-------------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
