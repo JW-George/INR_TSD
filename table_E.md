@@ -4,7 +4,7 @@
 
 ## Supplementary table
 
-**Table C.** Long-term forecasting results on various time series benchmark datasets (ECL, Traffic, Weather, Ettm1, Ettm2, Etth1, and Etth2) used in the TEMPO paper. We use prediction length $O = 96$. Lower MSE and MAE indicate better performance. The best results are highlighted in bold. 
+**Table E.** Long-term forecasting results on various time series benchmark datasets (ECL, Traffic, Weather, Ettm1, Ettm2, Etth1, and Etth2) used in the TEMPO paper. We use prediction length $O = 96$. Lower MSE and MAE indicate better performance. The best results are highlighted in bold. 
 
 |  | ECL                       | Traffic                   | Weather                   | Ettm1                     | Ettm2                     | Etth1                     | Etth2                     |
 |:----------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
